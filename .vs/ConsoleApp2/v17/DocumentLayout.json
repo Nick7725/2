@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smirn\\source\\repos\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3928138C-283B-4F5F-8BDA-C2D1EE8C4B93}|ConsoleApp2\\ConsoleApp2.csproj|C:\\Users\\smirn\\source\\repos\\ConsoleApp2\\consoleapp2\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3928138C-283B-4F5F-8BDA-C2D1EE8C4B93}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3928138C-283B-4F5F-8BDA-C2D1EE8C4B93}|ConsoleApp2\\ConsoleApp2.csproj|C:\\Users\\smirn\\source\\repos\\ConsoleApp2\\consoleapp2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3928138C-283B-4F5F-8BDA-C2D1EE8C4B93}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3928138C-283B-4F5F-8BDA-C2D1EE8C4B93}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\smirn\\source\\repos\\consoleapp2\\consoleapp2\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3928138C-283B-4F5F-8BDA-C2D1EE8C4B93}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3928138C-283B-4F5F-8BDA-C2D1EE8C4B93}|ConsoleApp2\\ConsoleApp2.csproj|C:\\Users\\smirn\\source\\repos\\ConsoleApp2\\consoleapp2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3928138C-283B-4F5F-8BDA-C2D1EE8C4B93}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3928138C-283B-4F5F-8BDA-C2D1EE8C4B93}|ConsoleApp2\\ConsoleApp2.csproj|C:\\Users\\smirn\\source\\repos\\ConsoleApp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3928138C-283B-4F5F-8BDA-C2D1EE8C4B93}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Education.cs",
+              "DocumentMoniker": "C:\\Users\\smirn\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Education.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Education.cs",
+              "ToolTip": "C:\\Users\\smirn\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Education.cs",
+              "RelativeToolTip": "ConsoleApp2\\Education.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T06:15:06.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\smirn\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Student.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Student.cs",
+              "ToolTip": "C:\\Users\\smirn\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Student.cs",
+              "RelativeToolTip": "ConsoleApp2\\Student.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:37:19.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\smirn\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Exam.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Exam.cs",
+              "ToolTip": "C:\\Users\\smirn\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Exam.cs",
+              "RelativeToolTip": "ConsoleApp2\\Exam.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:36:52.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\smirn\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Person.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Person.cs",
+              "ToolTip": "C:\\Users\\smirn\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Person.cs",
+              "RelativeToolTip": "ConsoleApp2\\Person.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:56:39.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\smirn\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\smirn\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:56:00.544Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
